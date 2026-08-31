@@ -1,0 +1,8 @@
+# Binaries
+*.exe
+*.test
+*.out
+
+# Editor
+.idea/
+.vscode/
